@@ -1,0 +1,23 @@
+/* Write your code here. */
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 150px;
+  padding-top: 70px;
+  font-family: 'Roboto';
+}
+.nature-images {
+  /* height: 100px; */
+  width: 50%;
+}
+.heading {
+  color: #1e293b;
+}
+.description {
+  color: #64748b;
+}
+.list-container {
+  display: flex;
+  list-style: none;
+}
